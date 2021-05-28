@@ -1,0 +1,125 @@
+.none,
+#content-alter,
+#content-reject {
+    display: none;
+}
+
+.hedaer-primary,
+.bg-login-overlay {
+    background: linear-gradient(to right, #c59939, #c59939) !important;
+    color: #fff;
+}
+
+.btn-warning {
+    color: #fff !important;
+    background-color: #c59939 !important;
+    border-color: #c59939 !important;
+}
+
+.btn-warning:hover,
+.page-link:hover {
+    color: #fff;
+    background-color: #c59939 !important;
+    border-color: #c59939 !important;
+}
+
+.btn-outline-warning {
+    color: #c59939 !important;
+    border-color: #c59939 !important;
+}
+
+.btn-outline-warning:hover {
+    color: #fff !important;
+    background-color: #c59939 !important;
+    border-color: #c59939 !important;
+}
+
+.btn-login {
+    border: 1px solid #c59939ba !important;
+    font-weight: bold !important;
+    border-radius: 4px;
+    display: inline-block;
+    cursor: pointer;
+    font-size: 13px;
+    padding: 6px 10px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #c59939 !important;
+}
+
+.page-item.active .page-link {
+    z-index: 3;
+    color: #fff !important;
+    background-color: #c59939 !important;
+    border-color: #c59939 !important;
+}
+
+
+.text {
+    color: #c59939;
+}
+
+.logo span {
+    color: #fff;
+    font-weight: 600;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+
+.modal:nth-of-type(even) {
+    z-index: 1042 !important;
+}
+
+.modal-backdrop.in::nth-of-type(even) {
+    z-index: 1042 !important;
+}
+
+.disabled {
+    border-color: green !important;
+    background-color: #e0e0e0 !important;
+}
+
+.enabled {
+    border-color: red !important;
+}
+
+.enter .row {
+    padding-left: 20px !important;
+}
+
+.empresaAcordion .card-header {
+    background-color: #c59939;
+}
+
+.empresaAcordion .card-header a {
+    color: #fff !important;
+}
+
+.empresaAcordion .card-header h6 {
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.empresaAcordion .card-body {
+    background-color: #fbfbfb;
+}
+
+h6.card-title {
+    font-size: 12px !important;
+    font-weight: bold;
+}
+
+.input-group-btn {
+    background-color: #ddd;
+    border-radius: 0px 4px 4px 0px;
+}
+
+#card-indicador {
+    border-bottom: 6px solid#c59939;
+    border-top: 4px solid#c49e05;
+}
+
+#experience #mostrarInquerito:hover {
+    cursor: pointer;
+    background-color: #c59939 !important;
+}
