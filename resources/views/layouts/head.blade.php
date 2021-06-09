@@ -1,6 +1,6 @@
 
         @yield('css')
-
+        <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
         <!-- App css -->
         <link href="{{ URL::asset('/css/bootstrap-dark.min.css')}}" id="bootstrap-dark" rel="stylesheet" type="text/css" />
         <link href="{{ URL::asset('/css/bootstrap.min.css')}}" id="bootstrap-light" rel="stylesheet" type="text/css" />
