@@ -16,3 +16,11 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('dicionario');
 });
+
+Route::get('/admin/addpalavra', function () {
+    return view('addPalavra');
+});
+
+Route::get('/admin/palavras', function () {
+    return view('palavras');
+});

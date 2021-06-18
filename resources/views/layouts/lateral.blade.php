@@ -31,14 +31,14 @@
                 </li>
 
                 <li>
-                    <a href="addPalavra" class="waves-effect">
+                    <a href="admin/addPalavra" class="waves-effect">
                         <i class="bx bx-add-to-queue"></i>
                         <span>Add Palavra</span>
                     </a>
                 </li>
 
                 <li>
-                    <a href="traducao" class="waves-effect">
+                    <a href="admin/traducao" class="waves-effect">
                         <i class="bx bx-font-size"></i>
                         <span>Tradução</span>
                     </a>
